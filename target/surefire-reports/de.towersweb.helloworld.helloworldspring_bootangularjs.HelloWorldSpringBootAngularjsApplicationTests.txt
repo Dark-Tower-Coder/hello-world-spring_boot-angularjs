@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: de.towersweb.helloworld.helloworldspring_bootangularjs.HelloWorldSpringBootAngularjsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.459 s - in de.towersweb.helloworld.helloworldspring_bootangularjs.HelloWorldSpringBootAngularjsApplicationTests
